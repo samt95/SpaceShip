@@ -28,10 +28,10 @@ var spaceShipUp = new Image();
 var spaceShipDown = new Image();
 var spaceShipFlat = new Image();
 var explode = new Image();
-spaceShipUp.src = "../images/spaceshipUp.png";
-spaceShipDown.src = " ../images/spaceshipDown.png";
-spaceShipFlat.src = " ../images/spaceShipFlat.png";
-explode.src = " ../images/explosion.png";
+spaceShipUp.src = "../img/spaceshipUp.png";
+spaceShipDown.src = " ../img/spaceshipDown.png";
+spaceShipFlat.src = " ../img/spaceShipFlat.png";
+explode.src = " ../img/explosion.png";
 
 var limeGreen = "#00ff00";
 var newHighScore= false;
