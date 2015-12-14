@@ -1,0 +1,53 @@
+body {
+	width: 802px;
+	height: 507px;
+	margin: 5%;
+	border: 1px solid gray;
+}
+
+header {
+	width: 800px;
+	height: 100px;
+	background: black;
+	margin-bottom: 5px;
+}
+
+#header {
+	float: left;
+	margin-left: 20px;
+	color: #4775FF;
+}
+
+#title {
+	margin-bottom: 5px;
+}
+
+#caption {
+	font-style: italic;
+	font-size: 10pt;
+}
+
+#score {
+	float: right;
+	margin-top: 37px;
+	margin-bottom: 37px;
+	margin-right: 20px;
+	color: #4775FF;
+}
+
+#bigText {
+	font-size: 30pt;
+}
+
+#mainText:hover {
+	color: #4775FF;
+}
+
+#mainText {
+	position: fixed;
+	width: 802px;
+	text-align: center;
+	padding: 20px;
+	padding-top: 50px;
+	color: gray;
+}
